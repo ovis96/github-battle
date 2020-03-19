@@ -3,7 +3,6 @@ import { FaUserFriends, FaFighterJet, FaTrophy, FaTimesCircle } from 'react-icon
 import PropTypes from 'prop-types'
 import Results from './Results'
 import { ThemeConsumer } from '../contexts/theme'
-import queryString from 'query-string'
 import { Link } from 'react-router-dom'
 function Instructions () {
   return (
